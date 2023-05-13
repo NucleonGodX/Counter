@@ -1,0 +1,58 @@
+h1 {
+    position:relative;
+    text-align: center;
+    font-size: 60px;
+    z-index:1;
+
+}
+h2{
+    position:relative;
+    text-align: center;
+    z-index:1;
+    font-size: 60px;
+}
+img{
+    position:absolute;
+    top:1px;
+    opacity:0.7;
+    width:1333px
+}
+
+.in{
+    position:absolute;
+    left:43%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width:200px;
+    font-size:40px;
+    color:aqua;
+    background-color: black;
+    border-radius: 40px;
+    
+}
+.sa {
+    position: absolute;
+    left: 43%;
+    top:55%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 200px;
+    font-size: 40px;
+    color: aqua;
+    background-color: black;
+    border-radius: 40px;
+
+}
+
+p{
+    position:absolute;
+    font-size:30px;
+    font-weight: bold;
+    color:black;
+    top:420px;
+    left:42%;
+    z-index:1
+
+
+    
+}
